@@ -1,0 +1,2 @@
+class TransferHistory < ApplicationRecord
+end
